@@ -6,7 +6,7 @@ Cut out the characters in a picture with one click, retaining the size of the or
 
 # Example
 
-## Enter picture
+## Enter picture（Click on the picture to see the effect comparison）
 ![123](https://github.com/minkai95/cutout/assets/33625547/b6610a6a-d025-4ad9-8b27-4dd51a4c67f4)
-## Output picture
+## Output picture（Click on the picture to see the effect comparison）
 ![123 output_image](https://github.com/minkai95/cutout/assets/33625547/0e5a8958-bd1f-42b3-a796-671f11af9603)
