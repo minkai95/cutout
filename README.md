@@ -6,7 +6,7 @@ Cut out the characters in a picture with one click, retaining the size of the or
 [立即下载 Download](https://github.com/minkai95/cutout/raw/main/cutout/dist/remove_background_gui.zip)
 下载解析之后，打开终端，拖进终端进行执行。
 
-<img width="365" alt="image" src="https://github.com/minkai95/cutout/assets/33625547/3f1cd21c-ef36-42d0-9e54-3ef34094921d"><img width="365" alt="image" src="https://github.com/minkai95/cutout/assets/33625547/b4c61d36-7919-4736-8570-d4d51b377c2f">
+<img width="365" height="400" alt="image" src="https://github.com/minkai95/cutout/assets/33625547/3f1cd21c-ef36-42d0-9e54-3ef34094921d"><img width="365" height="400" alt="image" src="https://github.com/minkai95/cutout/assets/33625547/b4c61d36-7919-4736-8570-d4d51b377c2f">
 <img width="700" alt="image" src="https://github.com/minkai95/cutout/assets/33625547/761a943d-f900-422b-8f94-737ae5c23296">
 
 
