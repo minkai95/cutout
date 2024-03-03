@@ -18,3 +18,6 @@ Cut out the characters in a picture with one click, retaining the size of the or
 ## Output picture（输出图片）
 （Click on the picture to see the effect comparison）（点击图片可以看到效果对比）
 ![123 output_image](https://github.com/minkai95/cutout/assets/33625547/0e5a8958-bd1f-42b3-a796-671f11af9603)
+
+# RESTful API Example
+```curl -X POST -F "file=@123.jpeg" http://localhost:5001/process_image --output output_001.png```
