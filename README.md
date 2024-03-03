@@ -2,8 +2,13 @@
 Cut out the characters in a picture with one click, retaining the size of the original picture. The result is a png format picture with a transparent background.
 把一个图片中的人物一键抠出来，保留原始图片的尺寸大小，结果是一个透明底色的png格式图片。
 
-# 一键使用（MAC）One-click use (MAC)
-[立即下载 Download](https://github.com/minkai95/cutout/raw/main/cutout/dist/remove_background_gui)
+# One-click use (MAC)一键使用（MAC）
+[立即下载 Download](https://github.com/minkai95/cutout/raw/main/cutout/dist/remove_background_gui.zip)
+下载解析之后，打开终端，拖进终端进行执行。
+
+<img width="365" height="400" alt="image" src="https://github.com/minkai95/cutout/assets/33625547/3f1cd21c-ef36-42d0-9e54-3ef34094921d"><img width="365" height="400" alt="image" src="https://github.com/minkai95/cutout/assets/33625547/b4c61d36-7919-4736-8570-d4d51b377c2f">
+<img width="700" alt="image" src="https://github.com/minkai95/cutout/assets/33625547/761a943d-f900-422b-8f94-737ae5c23296">
+
 
 # Example（示例）
 
