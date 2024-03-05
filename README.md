@@ -21,3 +21,6 @@ Cut out the characters in a picture with one click, retaining the size of the or
 
 # RESTful API Example
 ```curl -X POST -F "file=@123.jpeg" http://localhost:5001/process_image --output output_001.png```
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=minkai95/cutout&type=Timeline)](https://star-history.com/#minkai95/cutout&Timeline)
